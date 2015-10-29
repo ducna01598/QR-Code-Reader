@@ -2,11 +2,67 @@
 <items version="2" >
 
     <item
+        jar="/Users/macmini03/QR-Code-Reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/macmini03/QR-Code-Reader/app/build/intermediates/pre-dexed/debug/classes-3fbad9194ba002e1108e50cb220746aa0ffb85b4.jar" />
+    </item>
+    <item
+        jar="/Users/macmini03/QR-Code-Reader/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/macmini03/QR-Code-Reader/app/build/intermediates/pre-dexed/debug/classes-ffb27979248ef122af9dde6d6ee8e6a7eeb7e0d1.jar" />
+    </item>
+    <item
+        jar="/Users/macmini03/Desktop/environment/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/macmini03/QR-Code-Reader/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-6865add73d0185e68fc59ecca8bf2120a446b9f3.jar" />
+    </item>
+    <item
+        jar="/Users/macmini03/QR-Code-Reader/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="744a4b394a9a7db8a4c4680836d8544802a9cd64">
+        <dex dex="/Users/macmini03/QR-Code-Reader/app/build/intermediates/pre-dexed/debug/classes-f647b90185a225cda0c25b72c91fbaad6d266c1d.jar" />
+    </item>
+    <item
+        jar="/Users/macmini03/QR-Code-Reader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/macmini03/QR-Code-Reader/app/build/intermediates/pre-dexed/debug/classes-f6316b668cade368c7f2deadeb6e9aa947d62643.jar" />
+    </item>
+    <item
+        jar="/Users/macmini03/QR-Code-Reader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/macmini03/QR-Code-Reader/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-59de5178fffe08c7cd729a9c9b97271cf9f9d426.jar" />
+    </item>
+    <item
+        jar="/Users/macmini03/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.0/e019d15a13a9786f881141d2df6654b8510bce8b/core-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="/Users/macmini03/QR-Code-Reader/app/build/intermediates/pre-dexed/debug/core-3.2.0-b61bd4c2ede9fb69626ab716d21958d0ff35ada3.jar" />
+    </item>
+    <item
         jar="/Users/macmini03/works_android/qrcode_reader/app/build/intermediates/exploded-aar/net.simonvt.menudrawer/menudrawer/3.0.6/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="6c43e8970e14e22ed8ea6bee207b27829422d516">
         <dex dex="/Users/macmini03/works_android/qrcode_reader/app/build/intermediates/pre-dexed/debug/classes-af0fa0cf233500de40e2979ddd2339650b441ed7.jar" />
+    </item>
+    <item
+        jar="/Users/macmini03/QR-Code-Reader/app/build/intermediates/exploded-aar/net.simonvt.menudrawer/menudrawer/3.0.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c43e8970e14e22ed8ea6bee207b27829422d516">
+        <dex dex="/Users/macmini03/QR-Code-Reader/app/build/intermediates/pre-dexed/debug/classes-a3433db74f9f3e45b12c4eacb4f6713ad8ddd526.jar" />
     </item>
 
 </items>
