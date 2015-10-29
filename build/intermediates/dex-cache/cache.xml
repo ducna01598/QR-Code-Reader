@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/macmini03/works_android/qrcode_reader/app/build/intermediates/exploded-aar/net.simonvt.menudrawer/menudrawer/3.0.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c43e8970e14e22ed8ea6bee207b27829422d516">
+        <dex dex="/Users/macmini03/works_android/qrcode_reader/app/build/intermediates/pre-dexed/debug/classes-af0fa0cf233500de40e2979ddd2339650b441ed7.jar" />
+    </item>
+
+</items>
