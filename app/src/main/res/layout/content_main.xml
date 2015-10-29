@@ -13,8 +13,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:padding="5dp"
+        android:padding="10dp"
         android:text="Scan QRCode"
-        android:textStyle="bold"/>
+        android:textStyle="bold" />
 
 </RelativeLayout>
