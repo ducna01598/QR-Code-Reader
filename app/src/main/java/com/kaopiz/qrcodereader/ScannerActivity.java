@@ -29,6 +29,7 @@ public class ScannerActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
+        //Init barcode scanner view
         barcodeScannerView = (CompoundBarcodeView)findViewById(R.id.zxing_barcode_scanner);
         barcodeScannerView.decodeContinuous(callback);
 
@@ -59,6 +60,7 @@ public class ScannerActivity extends AppCompatActivity {
             ImageView imageView = (ImageView) findViewById(R.id.barcodePreview);
             imageView.setImageBitmap(result.getBitmapWithResultPoints(Color.YELLOW));
 
+            //Save history to preferences
             SharedPreferences historyPref = getSharedPreferences("PREFERENCE_HISTORY", MODE_PRIVATE);
             SharedPreferences.Editor editor = historyPref.edit();
             Set<String> set = historyPref.getStringSet("HISTORY", null);
