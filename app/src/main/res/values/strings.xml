@@ -2,5 +2,5 @@
     <string name="app_name">QRCode-Reader</string>
     <string name="action_settings">Settings</string>
     <string name="action_history">Show History</string>
-    <string name="title_activity_scaner">Scanner</string>
+    <string name="title_activity_scaner">Scanner Activity</string>
 </resources>
